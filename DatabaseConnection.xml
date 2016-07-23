@@ -1,0 +1,5 @@
+<CONNECTIONS>
+<CONNECTION ID="1" DRIVER_CLASS_NAME="com.mysql.jdbc.Driver" DATABASE_URL="jdbc:mysql:///nokia"
+ USER_NAME = "root" PASSWORD = ""
+ IS_DEFAULT = "TRUE"/>
+</CONNECTIONS>
